@@ -1,7 +1,7 @@
 # Desafio de Código PWC
 Manipulação de Strings. Solucionado em Python.
 
-# Exercício 1
+# [Exercício 1](https://github.com/fernandalopesbarbalho/desafio-pwc/blob/main/exercicio1_pwc.py)
 ## Código que recebe uma frase e reverte a ordem das palavras nas frases, mantendo a ordem das palavras.
 ### Exemplo:
 Input = "Hello, World! OpenAI is amazing."
@@ -21,7 +21,7 @@ Input = "No meio do caminho tinha uma pedra"
 
 Output = "pedra uma tinha caminho do meio No"
 
-# Exercício 2
+# [Exercício 2](https://github.com/fernandalopesbarbalho/desafio-pwc/blob/main/exercicio2_pwc.py)
 ## Código que recebe uma frase e remove todos os caracteres duplicados da string.
 ### Exemplo:
 Input = "Hello, World!"
@@ -43,7 +43,7 @@ Input = "Oi, meu nome é Fernanda."
 
 Output = "Oi, meu no é Frad."
 
-# Exercício 3
+# [Exercício 3](https://github.com/fernandalopesbarbalho/desafio-pwc/blob/main/exercicio3_pwc.py)
 ## Código que recebe uma palavra e encontra a substring palíndroma mais longa na string.
 ### Exemplo:
 Input = "babad"
@@ -63,7 +63,7 @@ Input = "arevivero"
 
 Output = "reviver"
 
-# Exercício 4
+# [Exercício 4](https://github.com/fernandalopesbarbalho/desafio-pwc/blob/main/exercicio4_pwc.py)
 ## Código que coloca em maiúscula a primeira letra de cada frase na string.
 ### Exemplo:
 Input = "hello. how are you? i'm fine, thank you."
@@ -79,7 +79,7 @@ Input = "eu? você! eu não. você sim!"
 
 Output = "Eu? Você! Eu não. Você sim!"
 
-# Exercício 5
+# [Exercício 5](https://github.com/fernandalopesbarbalho/desafio-pwc/blob/main/exercicio5_pwc.py)
 ## Código que verifica se a string é um anagrama de um palíndromo.
 ### Exemplo:
 Input = "racecar"
